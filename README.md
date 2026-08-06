@@ -107,6 +107,24 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
+
+
+# 📬 Let's Connect
+
+I'm always open to **internship opportunities**, **collaborations**, or just a good data chat. Feel free to reach out!
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhghifari)
+  [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muh.ghifari.k@email.com)
+
+  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://alexrivera-dev.github.io) -->
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=fadeIn" width="100%" />
+</div>
+
 <!-- <h1 align="left">Programming Toolkits</h1>
 
 ### 💡 Languages
