@@ -10,28 +10,23 @@
   <p>Currently Computer Science student with a questionable sleep schedule. I spend an unreasonable amount of time turning "there has to be a better way to do this" into code. I enjoy solving puzzle-like problems with data and building software that's simple, reliable, fast, and pleasant to use. My repositories are a collection of experiments, lessons, and the occasional reminder that failure is usually the fastest way to learn.</p>
 </div>
 
-</br>
-</br>
-
 #  Projects
 
 ### 📚 Learning Projects
 
 | Project Name | Description | Link |
 | :--- | :--- | :--- |
-| **End-To-End ML Project** | A comprehensive machine learning lifecycle project featuring data ingestion, logging, exception handling, model training, and deployment on AWS/Azure using CI/CD pipelines. | [Source Code](https://github.com/jattu8602/mlproject) |
-| **LeetCode Questions** | Solutions to algorithmic problems and data structures challenges on LeetCode. | [Source Code](https://github.com/jattu8602?tab=repositories) |
-| **Cognizant JavaFSE Upskilling** | Cognizant upskilling - html, css, js, bootstrap, java, sql | [Source Code](https://github.com/jattu8602/Cognizant-JavaFSE-Upskilling) |
-| **Java Full Stack Learning** | Full-stack Java learning journey and projects. | [Source Code](https://github.com/jattu8602/java_full_stack_learning) |
-| **DeepSkilling Cognizant** | Deep skilling and advanced technical training under Cognizant. | [Source Code](https://github.com/jattu8602/DeepSkilling) |
-
-</br>
-</br>
+| **Prediksi Harga Rumah Jabodetabek** | A Jupyter Notebook project for predicting house prices in the Jabodetabek area. | [Source Code](https://github.com/MuhGhifari/Prediksi-Harga-Rumah-Jabodetabek) |
+| **Prediksi Penjualan** | A Python-based project for sales prediction and forecasting. | [Source Code](https://github.com/MuhGhifari/Prediksi-Penjualan) |
+| **Campus Internship SaaS** | A SaaS platform for managing campus internships, built with Laravel/Blade. | [Source Code](https://github.com/MuhGhifari/campus-internship-saas) |
+| **Klasifikasi Sampah** | Waste classification evaluation tool using JavaScript. | [Source Code](https://github.com/MuhGhifari/evaluasi-klasifikasi-sampah) |
+| **Program Nilai Mahasiswa** | C++ program to process student data from CSV, validate inputs, and generate statistical reports. | [Source Code](https://github.com/MuhGhifari/ProgramNilaiMahasiswa) |
+| **Manajemen Museum** | Museum management application built with Dart. | [Source Code](https://github.com/MuhGhifari/Manajemen-Museum) |
   
-<h1 align="left">Data Toolkit</h1>
+<h1 align="left">Data Toolkits</h1>
 
 - **Framework**: Streamlit
-- **Libraries**: 
+- **📚 Libraries**: 
   - Pandas
   - NumPy
   - Scikit-learn
@@ -47,7 +42,7 @@
 </br>
 </br>
 
-<h1 align="left">Tech Stacks</h1>
+<h1 align="left">Programming Toolkits</h1>
 
 ### 💻 Languages
 <p align="left">
