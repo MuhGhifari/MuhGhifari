@@ -4,47 +4,57 @@
   
   [![Typing Line 1](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=A78BFA&center=true&repeat=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ari+%F0%9F%91%8B)](https://git.io/typing-svg)
   <h1 align="center" style="margin:0; padding:0;"></h1>
+  <table>
+  <tr>
+    <td width="30%">
+    <div align="center" style="padding:0; margin:0;">
+    
+  [![Typing Line 2](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=100&color=94a3b8&center=true&vCenter=true&width=600&lines=Just+another+Tech+Enthusiast;Welcome+to+My+Github+Profile!)](https://git.io/typing-svg)
+      <img src="image.png" height="150">
+    </div>
+    </td>
+    <td>
+      <p>Currently Computer Science student with a questionable sleep schedule. I spend an unreasonable amount of time turning "there has to be a better way to do this" into code. I enjoy solving puzzle-like problems with data and building software that's simple, reliable, fast, and pleasant to use. My repositories are a collection of experiments, lessons, and the occasional reminder that failure is usually the fastest way to learn.</p>
+    </td>
+  </tr>
+  </table>
+  <div align="center">
 
-  [![Typing Line 2](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=100&color=94a3b8&center=true&vCenter=true&width=600&lines=Just+another+Tech+Enthusiast;Welcome+to+My+Github+Profile!)](https://git.io/typing-svg)
-  <img src="image.png" height="150" style="margin-top:20px;">
-  <p>Currently Computer Science student with a questionable sleep schedule. I spend an unreasonable amount of time turning "there has to be a better way to do this" into code. I enjoy solving puzzle-like problems with data and building software that's simple, reliable, fast, and pleasant to use. My repositories are a collection of experiments, lessons, and the occasional reminder that failure is usually the fastest way to learn.</p>
+  </div>
 </div>
 
-#  Projects
+# My Portfolio
 
-### 📚 Learning Projects
-
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **Prediksi Harga Rumah Jabodetabek** | A Jupyter Notebook project for predicting house prices in the Jabodetabek area. | [Source Code](https://github.com/MuhGhifari/Prediksi-Harga-Rumah-Jabodetabek) |
-| **Prediksi Penjualan** | A Python-based project for sales prediction and forecasting. | [Source Code](https://github.com/MuhGhifari/Prediksi-Penjualan) |
+### 📊 Data Analytics
+ Project | Completion Date | Tools | Description
+| :--- | :--- | :--- | :--- 
+| [**Intelligent Server Grouping**](https://github.com/MuhGhifari/server-kmeans-clustering/blob/8d598bd28c81cc0bf1c510c449fd12a99dc53f70/server_kmeans_analysis.ipynb) | 2026 | Python, Streamlit | A data-driven dashboard that helps analyze and categorize enterprise servers through K-Means clustering for easier infrastructure management. |
+<!-- | **Prediksi Penjualan** | A Python-based project for sales prediction and forecasting. | [Source Code](https://github.com/MuhGhifari/Prediksi-Penjualan) |
 | **Campus Internship SaaS** | A SaaS platform for managing campus internships, built with Laravel/Blade. | [Source Code](https://github.com/MuhGhifari/campus-internship-saas) |
 | **Klasifikasi Sampah** | Waste classification evaluation tool using JavaScript. | [Source Code](https://github.com/MuhGhifari/evaluasi-klasifikasi-sampah) |
 | **Program Nilai Mahasiswa** | C++ program to process student data from CSV, validate inputs, and generate statistical reports. | [Source Code](https://github.com/MuhGhifari/ProgramNilaiMahasiswa) |
-| **Manajemen Museum** | Museum management application built with Dart. | [Source Code](https://github.com/MuhGhifari/Manajemen-Museum) |
+| **Manajemen Museum** | Museum management application built with Dart. | [Source Code](https://github.com/MuhGhifari/Manajemen-Museum) | -->
+
+
+### 🖥️ Web Application 
+ Project | Completion Date | Tools | Description
+| :--- | :--- | :--- | :--- 
+| [**Car Recommendation System**](https://muhghifari.github.io/ahp.seleksi.mobil.io/) | 2026 | Python, Streamlit | A web-based decision support system that recommends the most suitable car using the Analytical Hierarchy Process (AHP) based on customizable decision criteria. |
   
 <h1 align="left">Data Toolkits</h1>
 
-- **Framework**: Streamlit
-- **📚 Libraries**: 
-  - Pandas
-  - NumPy
-  - Scikit-learn
-  - TensorFlow
-  - PyTorch
-  - OpenCV
-  - NLTK
-  - BeautifulSoup
-- **Visualization**: 
-  - Power BI
-  - Looker Studio
-
-</br>
-</br>
+### **🖼️ Framework**: 
+`Streamlit`
+### **📚 Libraries**: 
+ `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`, `PyTorch`, `OpenCV`, `NLTK`, `BeautifulSoup`
+### **📈 Visualization**: 
+`Power BI`, `Looker Studio`
+### **⚒️ Tools**: 
+`Excel`, `Jupyter`, 
 
 <h1 align="left">Programming Toolkits</h1>
 
-### 💻 Languages
+### 💡 Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,go,php,js,dart,cpp" />
