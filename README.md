@@ -6,6 +6,7 @@
   <h1 align="center" style="margin:0; padding:0;"></h1>
   
   [![Typing Line 2](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=100&color=94a3b8&center=true&vCenter=true&width=600&lines=Just+another+Tech+Enthusiast;Welcome+to+My+Github+Profile!)](https://git.io/typing-svg)
+
   <img src="character.png" height="150">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhghifari)
