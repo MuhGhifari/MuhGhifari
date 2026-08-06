@@ -6,8 +6,8 @@
   <h1 align="center" style="margin:0; padding:0;"></h1>
   <table>
   <tr>
-    <td width="30%">
-    <div align="center" style="padding:0; margin:0;">
+    <td width="50%">
+    <div align="center" style="padding:0; margin:0; border-style:borderless;">
     
   [![Typing Line 2](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=100&color=94a3b8&center=true&vCenter=true&width=600&lines=Just+another+Tech+Enthusiast;Welcome+to+My+Github+Profile!)](https://git.io/typing-svg)
       <img src="image.png" height="150">
