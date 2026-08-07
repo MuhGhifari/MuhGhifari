@@ -31,8 +31,8 @@
 
 | Project | Purpose | Description |
 | :--- | :--- | :--- |
-| [**UniDustri.com**](https://muhghifari.github.io/ahp.seleksi.mobil.io/) | Internship Management | A startup concept for a web-based platform that connects universities, students, and companies within a unified internship ecosystem. |
-| [**Car Recommendation System**](https://github.com/MuhGhifari/campus-internship-saas) | Decision Support | A web-based decision support system that recommends the most suitable car using the Analytical Hierarchy Process (AHP) based on customizable decision criteria. |
+| [**UniDustri.com**](https://github.com/MuhGhifari/campus-internship-saashttps://muhghifari.github.io/ahp.seleksi.mobil.io/) | Internship Management | A startup concept for a web-based platform that connects universities, students, and companies within a unified internship ecosystem. |
+| [**Car Recommendation System**](https://muhghifari.github.io/ahp.seleksi.mobil.io/) | Decision Support | A web-based decision support system that recommends the most suitable car using the Analytical Hierarchy Process (AHP) based on customizable decision criteria. |
 | [**Internal Finance System**](#) | Financial Management | A web application for managing company finances, expense requests, and automated report generation. |
 
 ### 🚀 Hobby Projects
