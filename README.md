@@ -14,7 +14,7 @@
 
   <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://alexrivera-dev.github.io) -->
   
-  <p style="font-family:'Helvetica'; font-size:1.2em; color:#7ea6d6">Currently Computer Science student with a questionable sleep schedule. I spend an unreasonable amount of time turning "there has to be a better way to do this" into code. I enjoy solving puzzle-like problems with data and building software that's simple, reliable, fast, and pleasant to use. My repositories are a collection of experiments, lessons, and the occasional reminder that failure is usually the fastest way to learn.</p>
+  <p style="font-family:'Helvetica'; font-size:1.2em; color:#7ea6d6">Currently a Computer Science student with a questionable sleep schedule. I spend an unreasonable amount of time turning "there has to be a better way to do this" into code. I enjoy solving problems like a puzzle with data and building software that's simple, reliable, fast, and pleasant to use. My repositories are a collection of experiments, lessons, and the occasional reminder that failure is usually the fastest way to learn.</p>
 </div>
 
 # My Portfolio
@@ -25,7 +25,7 @@
 | :--- | :--- | :--- |
 | [**Intelligent Server Grouping**](https://github.com/MuhGhifari/server-kmeans-clustering/blob/8d598bd28c81cc0bf1c510c449fd12a99dc53f70/server_kmeans_analysis.ipynb) | Infrastructure Analytics, Clustering | A data-driven dashboard that analyzes and groups enterprise servers using K-Means clustering to support infrastructure management and decision-making. |
 | [**Retail Sales Forecasting**](https://github.com/MuhGhifari/Prediksi-Penjualan/blob/c8db618eca729606c9e89498d9f6a5925b3ce330/sales_prediction_bogor.ipynb) | Retail Analytics, Sales Forecasting, Regression | Developed a machine learning model to forecast retail sales by analyzing historical sales data, enabling data-driven business planning and demand forecasting. |
-| [**House Price Prediction**](https://github.com/MuhGhifari/Prediksi-Harga-Rumah-Jabodetabek/blob/ec37f1cf4938ea92bfd9b89b2f606da9246eccc5/PrediksiHargaRumahJabodetabek.ipynb) | Real Estate Analytics, Regression | Developed a machine learning model to predict residential property prices in the Jabodetabek area using housing features and market data to support data-driven real estate valuation. |
+| [**House Price Prediction**](https://github.com/MuhGhifari/Prediksi-Penjualan/blob/bb4ad6f2bf9db9c363a3b2df23ad8d7985bdd24d/sales_prediction_bogor.ipynb) | Real Estate Analytics, Regression | Developed a machine learning model to predict residential property prices in the Jabodetabek area using housing features and market data to support data-driven real estate valuation. |
 
 ### 🖥️ Web Application 
 
